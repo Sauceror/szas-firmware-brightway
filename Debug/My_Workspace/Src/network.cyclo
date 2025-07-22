@@ -1,0 +1,4 @@
+../My_Workspace/Src/network.c:35:6:Start_Network	1
+../My_Workspace/Src/network.c:44:6:network_thread_entry	2
+../My_Workspace/Src/network.c:71:6:tcp_server_thread_entry	1
+../My_Workspace/Src/network.c:83:6:udp_server_thread_entry	3

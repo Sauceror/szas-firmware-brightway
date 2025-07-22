@@ -1,0 +1,3 @@
+../Core/Src/ec25.c:7:13:EC25_SendCommand	1
+../Core/Src/ec25.c:15:6:Init_EC25	1
+../Core/Src/ec25.c:26:6:Send_UDP_Trigger	1
